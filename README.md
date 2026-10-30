@@ -1,6 +1,3 @@
-# AboutMe
-Let's challenge The world
-
 # hyperkeys
 
 > **Every keystroke is a small act of freedom.**
